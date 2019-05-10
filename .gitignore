@@ -4,6 +4,11 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Standard Assets/
+Assets/Editor/
+Assets/UnityVS
+MouseOrbitImproved*
+[Bb]in/
 
 # Visual Studio cache directory
 .vs/
